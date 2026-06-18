@@ -1,5 +1,7 @@
 # 📘 Miniguia de Estudos: Orçamento Pessoal com a Regra 50/30/20 e NotebookLM
 
+https://notebooklm.google.com/notebook/1793629c-e6f8-4691-b753-249f348ec391
+
 Projeto prático desenvolvido para o desafio de projeto da DIO, com o objetivo de estruturar um guia de educação financeira pessoal utilizando inteligência artificial para curadoria e organização de fontes confiáveis.
 
 ---
